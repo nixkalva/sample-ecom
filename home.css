@@ -1,0 +1,203 @@
+.banner{
+background: url(banner.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+  width: 100%;
+  object-fit: cover;
+}
+	p{
+		color: white;
+		font-family: Verdana;
+		font-weight: 20px;
+	}
+	button{
+
+
+	}
+.donation{
+	background-color: #f6f5d9;
+	height: 400px;
+}
+.donate-content{
+	
+  	height: 100px;
+  	padding: 20px;
+  	border: 1px solid #f6f5d9;
+  	margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+  }
+	h1{
+		color: #008080;
+		font-family: Arial;
+		font-weight: 60px;
+		text-align: : center;
+	}
+	h2{
+		color: black;
+		font-family: Arial;
+		font-weight: 30px;
+		text-align: : center;
+	}
+	p1{
+		color: black;
+		font-family: Verdana;
+		font-weight: 10px;
+	}
+	a{
+		background-color: transparent;
+		color: grey;
+		font-family: Verdana;
+		font-weight: 8px;
+	}
+	ul{
+		display: inline-flex;
+		float: left;
+		list-style: none;
+
+	}
+	li{
+		padding-right: 10px;
+
+	}
+.banner-content{
+	height: 400px;
+  	padding: 100px 100px;
+  	
+  	margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+    align-items: center;
+
+
+}
+	h3{
+    	color: white;
+    	font-family: Verdana;
+    	font-weight: 20px
+    }
+    #btn-shop{
+    	padding : 10px;
+		border-color: white;
+		background-color: white;
+		color: black;
+		width: 100px;
+		margin-right: 50%;
+		margin-left: 50%;
+    }
+    #foot{
+    	background-color: black;
+    	margin-top: 400px;
+
+    }
+    .foot-list{
+    	list-style: none;
+    	
+    	color: grey;
+    	display: block;
+    }
+    #cream-types{
+    	display: flex;
+    	flex-wrap: wrap;
+    	height: 400px;
+    	background-color: white;
+    	text-align: center;
+
+    }
+    .clense{
+    	background: url(cleanse.jpg) no-repeat center center fixed; 
+	  	-webkit-background-size: cover;
+	  	-moz-background-size: cover;
+	  	-o-background-size: cover;
+	  	background-size: cover;
+	    width: 30%;
+	  	object-fit: cover;
+	  	padding: 10px;
+	  	margin: 10px;
+	  	border: 1px solid white;
+	  	background-color: white;
+    }
+    .moist{
+    	background: url(moist.jpg) no-repeat center center fixed; 
+    	-webkit-background-size: cover;
+	  	-moz-background-size: cover;
+	  	-o-background-size: cover;
+	  	background-size: cover;
+	    width: 30%;
+	  	object-fit: cover;
+	  	padding: 10px;
+	  	margin: 50px 0 -20px 0;
+	  	border: 1px solid white;
+	  	background-color: white;
+  
+    }
+     .repair{
+    	background: url(repair.jpg) no-repeat center center fixed; 
+    	-webkit-background-size: cover;
+	  	-moz-background-size: cover;
+	  	-o-background-size: cover;
+	  	background-size: cover;
+	    width: 30%;
+	  	object-fit: cover;
+	  	padding: 10px;
+	  	margin: 10px;
+	  	border: 1px solid white;
+	  	background-color: white;
+ 
+    }
+    h4{
+    	color: white;
+    	font-family: Verdana;
+    	font-size: 20px;
+    }
+    #best{
+    	margin-top: 60px;
+    	
+    }
+    h5{
+    	color: black;
+    	background-color: white;
+    	margin-top: 100px;
+    	margin-left: -150px;
+    	margin-right: 100px;
+    	padding: 5px;
+    	font-family: Arial;
+    	font-size: 30px;
+    	transform: rotate(-90deg);
+    	transform-origin: top right;
+    	
+    	float:left;
+    }
+    h6{
+    	color: black;
+    	font-family: Verdana;
+    	font-size: 16px;
+    	text-decoration: underline;
+
+
+    }
+    .price-prev{
+    	text-decoration: line-through;
+    	margin-right: 10px;
+    }
+    img{
+    	margin-left: -20px;
+    	margin-top: 60px;
+    }
+    .best-cos li{
+    	margin: 0 40px 10px 20px;
+    	width: 50%;
+    }
+    .arrow{
+    	
+    	font-weight: 50px;
+    	font-size: 60px;
+
+    }
+    .bes-cos{
+    	display:flex;
+
+    }
